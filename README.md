@@ -5,9 +5,8 @@ A library for crafting spells in DSS more efficiently, predictably, and easily.
 
 ## Public Library Addresses
 
-- (v0.0.9) Mainnet: [0x8de6ddbcd5053d32292aaa0d2105a32d108484a6](https://etherscan.io/address/0x8de6ddbcd5053d32292aaa0d2105a32d108484a6#code)
-- (v0.0.9) Goerli: [0x122f6c0dcd898b4a07310e92c3eae5d7ce0c8bb6](https://goerli.etherscan.io/address/0x122f6c0dcd898b4a07310e92c3eae5d7ce0c8bb6#code)
-- (v0.0.9) Kovan: [0xb1d60194ec975bc83f0300b7669a0803b6dd2955](https://kovan.etherscan.io/address/0xb1d60194ec975bc83f0300b7669a0803b6dd2955#code)
+- (v0.0.9) Mainnet: todo
+- (v0.0.9) Dhobyghaut: [0x9aE528a1e66cd95f23bF75365B0D22B2D1FB240a](https://testnet.starscan.io/evm/address/0x9aE528a1e66cd95f23bF75365B0D22B2D1FB240a/contracts#address-tabs)
 
 ## Requirements
 
